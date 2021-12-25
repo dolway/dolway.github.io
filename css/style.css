@@ -2453,7 +2453,19 @@ pre .javascript .function {
   content: '\f1a9';
 }
 .navbar .nav.nav-main .nav-item:nth-child(4) .nav-item-link::before {
+  content: '\f11e';
+}
+.navbar .nav.nav-main .nav-item:nth-child(5) .nav-item-link::before {
+  content: '\f18c';
+}
+.navbar .nav.nav-main .nav-item:nth-child(6) .nav-item-link::before {
+  content: '\f153';
+}
+.navbar .nav.nav-main .nav-item:nth-child(7) .nav-item-link::before {
   content: '\f174';
+}
+.navbar .nav.nav-main .nav-item:nth-child(8) .nav-item-link::before {
+  content: '\f136';
 }
 .navbar-bottom {
   position: absolute;
