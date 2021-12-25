@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>AI序蓝</title>
+  
+  <subtitle>爱code | 爱摄影 | 爱生活</subtitle>
+  <link href="http://example.com/atom.xml" rel="self"/>
+  
+  <link href="http://example.com/"/>
+  <updated>2021-12-25T03:29:38.314Z</updated>
+  <id>http://example.com/</id>
+  
+  <author>
+    <name>Dolway.du</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>My New Post1</title>
+    <link href="http://example.com/2021/12/25/My-New-Post1/"/>
+    <id>http://example.com/2021/12/25/My-New-Post1/</id>
+    <published>2021-12-25T00:22:08.000Z</published>
+    <updated>2021-12-25T03:29:38.314Z</updated>
+    
+    
+    <summary type="html">descriptiondescriptiondescriptiondescriptiondescriptiondescriptiondescription</summary>
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>My New Post</title>
+    <link href="http://example.com/2021/12/24/My-New-Post/"/>
+    <id>http://example.com/2021/12/24/My-New-Post/</id>
+    <published>2021-12-24T14:02:53.000Z</published>
+    <updated>2021-12-24T14:02:53.117Z</updated>
+    
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>My New Post</title>
+    <link href="http://example.com/2021/12/24/My-New-Post%E7%9A%84%E5%89%AF%E6%9C%AC/"/>
+    <id>http://example.com/2021/12/24/My-New-Post%E7%9A%84%E5%89%AF%E6%9C%AC/</id>
+    <published>2021-12-24T14:02:53.000Z</published>
+    <updated>2021-12-24T14:02:53.117Z</updated>
+    
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="http://example.com/2021/12/24/hello-world/"/>
+    <id>http://example.com/2021/12/24/hello-world/</id>
+    <published>2021-12-24T11:19:27.366Z</published>
+    <updated>2021-12-25T04:06:27.016Z</updated>
+    
+    
+    <summary type="html">descriptiondescriptiondescriptiondescriptiondescriptiondescriptiondescription</summary>
+    
+    
+    
+    
+  </entry>
+  
+</feed>
